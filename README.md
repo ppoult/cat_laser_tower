@@ -22,5 +22,5 @@ It moves the tower to the new position and stays still for a time between min_fr
 that's the variable you need to increase if your cat is fat...).
 Ans starts the process over and over again. 
 
-Created 30 Sep 2016 by Lucas Berbesson for La Fabrique DIY
+ALL DAY BABY
 
