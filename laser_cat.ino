@@ -14,8 +14,7 @@
   Ans starts the process over and over again.
 
   Created 30 Sep 2016 by Lucas Berbesson
-  COCK!
-  NOT DICK YOU IDIOT
+  HOLY SHIT U DUMB
 */
 
 
