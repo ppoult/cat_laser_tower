@@ -15,11 +15,8 @@
 
   Created 30 Sep 2016 by Lucas Berbesson
   HOLY SHIT U DUMB
-<<<<<<< HEAD
-  SEXY BEAST
-=======
   I SUCK BILLY
->>>>>>> 0fcddc913dfa153f4b1ef4a6f767eb5e9ea1ed85
+  DADDY WANNA SUCK COCK?
 */
 
 
